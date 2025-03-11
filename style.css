@@ -1378,6 +1378,9 @@ footer .box-icons a:hover{
 
 /* MOBILE RESPONSIVE */
 @Media screen and (max-width: 991px){
+    img{
+        max-width: 100%;
+    }
     .head-left img{
         height: 40px;
         margin-left: 10px;
